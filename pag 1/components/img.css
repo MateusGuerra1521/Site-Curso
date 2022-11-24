@@ -1,0 +1,37 @@
+.img1{
+    padding-right: 20px;
+    height: 65px;
+    margin-top: 5px;
+}
+.imagem{
+    height: 75px;
+}
+.autoestima{
+    text-align: center;
+}
+.estima{
+    width: 700px;
+}
+.coluna{
+    font-size: 18px;
+}
+.corrida{
+    width: 200px;
+    height: 190px;
+}
+.futebol{
+    width: 200px;
+    height: 190px;
+}
+.skate{
+    width: 300px;
+    height: 190px;
+}
+.video{
+    margin-top: 50px;
+    width: 800px;
+    height: 500px;
+}
+.espaco-video{
+    text-align: center;
+}

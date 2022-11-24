@@ -1,0 +1,19 @@
+.geral{
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    
+}
+.geral:hover{
+    color: blue;
+}
+
+.sla{
+    margin-top: -20px;
+}
+
+.cabeca2{
+    margin-left: -50px;
+}
