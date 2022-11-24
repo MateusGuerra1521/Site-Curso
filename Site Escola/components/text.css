@@ -1,0 +1,36 @@
+
+
+.titulo{
+    position: relative;
+     color: black;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'bitter';
+}
+
+.texto{
+    position: relative;
+    color: black;
+    font-size: 24   px;
+    font-family: 'bitter';
+    text-align: center;
+}
+
+.rodape{
+    position: relative;
+    top: 500px;
+}
+.titulot{
+    position: relative;
+    color: black;
+   font-size: 30px;
+   text-align: center;
+   font-family: 'bitter';
+}
+
+.estilot{
+    width: 65%;
+    height: 100%;
+    color: black;
+    font-family: 'bitter';
+}
